@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**victormose2005-alt/victormose2005-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner learning programming, web development, Git, and GitHub. I'm practising by building projects and learning how to work with other people.
 
-Here are some ideas to get you started:
+## My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Website](https://victormose2005-alt.github.io)
+- [My Markdown Practice](PASTE_YOUR_MARKDOWN_FILE_LINK_HERE)
+- [My Week 00 Team Project](PASTE_YOUR_TEAM_REPOSITORY_LINK_HERE)
+
+## My Learning Goals
+
+- Learn HTML, CSS, and JavaScript.
+- Understand Git and GitHub.
+- Improve my programming skills.
+- Build useful projects.
+
+I'm learning step by step and improving through practice.
