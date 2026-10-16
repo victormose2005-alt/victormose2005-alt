@@ -5,8 +5,8 @@ I'm a beginner learning programming, web development, Git, and GitHub. I'm pract
 ## My Projects
 
 - [My Website](https://victormose2005-alt.github.io)
-- [My Markdown Practice](PASTE_YOUR_MARKDOWN_FILE_LINK_HERE)
-- [My Week 00 Team Project](PASTE_YOUR_TEAM_REPOSITORY_LINK_HERE)
+- [My Markdown Practice](https://github.com/victormose2005-alt/week-00)
+- [My Week 00 Team Project](https://github.com/victormose2005-alt/Team-collaboration)
 
 ## My Learning Goals
 
